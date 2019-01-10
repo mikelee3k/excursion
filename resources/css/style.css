@@ -1,0 +1,34 @@
+body {
+  background-color: Black;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h1.travel {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p.excursion {
+  font-family: Verdana;
+  font-size:  21px;
+  color: gray;
+}
+
+p.trademark {
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
+}
